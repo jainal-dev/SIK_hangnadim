@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 # SIK_hangnadim
-=======
 # sik_hangnadim_mobile
 
 A new Flutter module project.
